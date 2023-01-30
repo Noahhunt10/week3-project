@@ -1,0 +1,13 @@
+
+span {
+    background-color: #da773551;
+    border-radius: 50px;
+    display: flex;
+    width: 350px;
+    margin: 25px auto;
+    padding: 10px
+}
+.homescreen {
+    min-height: 1000px;
+    height: 100%;
+}
